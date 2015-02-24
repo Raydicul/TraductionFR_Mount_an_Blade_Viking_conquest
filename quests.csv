@@ -1,0 +1,106 @@
+qst_deliver_message|Delivrer le message a {s13}
+qst_deliver_message_to_enemy_lord|Delivrer le message a {s13}
+qst_raise_troops|Recruter {reg1} {s14}
+qst_escort_lady|Escorter {s13} a {s14}
+qst_deal_with_bandits_at_lords_village|Sauver le village {s15} des Bandits
+qst_collect_taxes|Collecter les Taxes de {s3}
+qst_hunt_down_fugitive|Traquer {s4}
+qst_kill_local_merchant|Assassiner un Merchant a {s3}
+qst_bring_back_runaway_serfs|Ramener les serfs fugitifs
+qst_follow_spy|Suivre l'espion jusqu'au lieu de rencontre
+qst_capture_enemy_hero|Capturer un Seigneur pour {s13}
+qst_lend_companion|Preter son Compagnion {s3} a {s9}
+qst_collect_debt|Collecter la Dette de {s3} qu'il doit a {s9}
+qst_incriminate_loyal_commander|Accuser le Loyal Commandant de {s13}, {s16}
+qst_meet_spy_in_enemy_town|Rencontrer l'espion a {s13}
+qst_capture_prisoners|Apporter {reg1} {s3} Prisoniers
+qst_lend_surgeon|Preter son medecin {s3} a {s1}
+qst_follow_army|Suivre l'armee de {s9}
+qst_report_to_army|Informe de {s13}, le Marechal
+qst_deliver_cattle_to_army|Delivrer {reg3} prisonier a {s13}
+qst_join_siege_with_army|Rejondre le siege de {s14}
+qst_screen_army|Informer de l'avancement de l'amee de {s13}'
+qst_scout_waypoints|Reconnaissance de {s13}, {s14} et {s15}
+qst_rescue_lord_by_replace|Secourir {s13} de {s14}
+qst_deliver_message_to_prisoner_lord|Apporter le message de {s13} a {s14}
+qst_duel_for_lady|Combattre {s13} en  duel
+qst_duel_courtship_rival|Combattre {s13} en  duel (optionnel)
+qst_duel_avenge_insult|Combattre {s13} en  duel
+qst_move_cattle_herd|Move Cattle Herd to {s13}
+qst_escort_merchant_caravan|Escorter le marchant en caravan a {s8}
+qst_deliver_wine|Remettre {reg5} unite de {s6} a {s4}
+qst_troublesome_bandits|Traquer les Bandits
+qst_kidnapped_girl|Payer la rançon de la fille aux Bandits
+qst_persuade_lords_to_make_peace|Assurez-vous que deux seigneurs ne se opposent pas a la paix
+qst_deal_with_looters|Traiter avec les pillards
+qst_deal_with_night_bandits|Traiter avec les Bandits
+qst_deliver_grain|Apporter du ble a {s3}
+qst_deliver_cattle|Delivrer {reg5} prisonier a {s3}
+qst_train_peasants_against_bandits|Entrainer les paysans de {s13} contre les Bandits.
+qst_eliminate_bandits_infesting_village|Suver le village de {s7} des Bandits
+qst_visit_lady|Aller voir la Lady
+qst_formal_marriage_proposal|Formuler une proposition de mariage
+qst_obtain_liege_blessing|Formuler une proposition de mariage
+qst_wed_betrothed|epouser votre fiancee
+qst_wed_betrothed_female|epouser votre fiancee
+qst_join_faction|Donner serment d'hommage a {s1}
+qst_rebel_against_kingdom|Aider {s13} a renvendiquer le Trone de {s14}
+qst_consult_with_minister|Consulter avec le Ministre
+qst_organize_feast|Organiser une fete
+qst_resolve_dispute|Ressoudre une Dispute
+qst_offer_gift|Donner un cadeau
+qst_denounce_lord|Denoncer le Seigneur
+qst_intrigue_against_lord|Comploter contre le Seigneur
+qst_track_down_bandits|Traquer les Bandits
+qst_track_down_provocateurs|Traquer les agitateurs
+qst_retaliate_for_border_incident|Rendre la pareille a un incident de frontiere
+qst_raid_caravan_to_start_war|Attaquer une Caravan Neutre pour provoquer la Guerre
+qst_cause_provocation|Donner a un Royaume une raison d'attaquer un autre
+qst_rescue_prisoner|Secourir ou payer la rançon du Prisonier
+qst_destroy_bandit_lair|Detruire le repere des Bandits
+qst_kennemer_jarl|La Vengence: Parler au Jarl de Kennemer.
+qst_kennemer_jarl_missions|La Vengence: Travailler pour un Jarl.
+qst_kennemer_mission_1| Mission du Jarl: Arbitrer au Monastery.
+qst_kennemer_mission_2| Mission du Jarl: Thiaderd doit mourrir.
+qst_kennemer_mission_3| Mission du Jarl: Tuer un Roi.
+qst_reginhard_donations|La Petition de Reginhard : Donation pour les victimes de la guerre.
+qst_recruit_an_army|Mission du Jarl: Secourir les soldats.
+qst_doccinga_assault|Attaque viking: Sauver Doccinga de l'assault de Sven.
+qst_doccinga_interrogation|Attaque viking: Interroger un Viking.
+qst_getting_ship|Attaque viking: Un Drakkar et une Fille.
+qst_notes_companions|Note sur ses compagnons.
+qst_notes_global|Ses notes.
+qst_notes_frisa|Ses notes sur Friese.
+qst_notes_danmork|Ses notes sur Danmark.
+qst_notes_englaland|Ses notes sur Englaland.
+qst_sven_lair|La Vengence: L'antre du loup.
+qst_danmork_protection|La Vengence: Sous l'aile du roi Horek.
+qst_revenge_sigurd|La Vengence: Demander a Sigurd a propos de 'Le serpent dans les yeux'
+qst_collect_smen|Mission de Sigurd: Secourir l'armee de l'attaque de Sigurd.
+qst_bodo_letter|La Vengence: Retrieving a Most Important Letter.
+qst_the_holmgang|Le Holmgang: Tuer un acolyte.
+qst_the_fleet|La Vengence: Envahir l'Angleterre.
+qst_sven_traitor|La Vengence: Sven le traite.
+qst_wessex_foragers|Le Siege: West Seaxe Fourrageurs.
+qst_the_messengersn|Le Siege: Le Messager.
+qst_the_alliance|La Vengence: L'Alliance.
+qst_welsh_and_pictish|Le conquerant: Servir la cause.
+qst_cathach_colum|Etre un Viking: 'Le Cathach de Colum Cille'.
+qst_entregando_pieles|Etre un Viking: Commercer des fourrures.
+qst_revenge_exchange|La Vengence: La ferme.
+qst_ulf_testigo|Sauver son cou: Courtiser les Fermiers et le Jarls.
+qst_the_thing|La Vengence: L'assemblee.
+qst_douar_an_enez|La Vengence: Douar-an-Enez.
+qst_aescesdun|La battaille: Aescesdun.
+qst_svenbn_final|La Vengence: Sven au cou de taureau.
+qst_old_roman|Le mur d'Hadrian: Sauver l'affame.
+qst_vc_menu|La Conquete Vinking menu systeme.
+qst_vc_wounds|La Conquete Vinking blesse le systeme.
+qst_sea_battle_spawn|un systeme d'apparition.
+qst_team_0_ships|un systeme d'apparition.
+qst_team_1_ships|un systeme d'apparition.
+qst_collect_men|La Vengence: Aller voir Doccinga
+qst_learn_where_merchant_brother_is|La Vengence: Parler de Jarl a Kennemer.
+qst_save_relative_of_merchant|Attaquer le repere des bandits
+qst_save_town_from_bandits|Sauver la ville des bandis
+qst_quests_end|Fin des quete

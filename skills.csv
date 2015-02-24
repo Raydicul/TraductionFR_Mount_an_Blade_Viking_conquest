@@ -1,0 +1,84 @@
+skl_trade|Marchandage
+skl_trade_desc|Chaque niveau de cette competence vous offre un bonus de commerce de 5%%. (Competence de groupe)
+skl_leadership|Commandement
+skl_leadership_desc|Chaque point augmente le nombre maximum de soldats que vous pouvez commander de 5, augmente le moral du groupe et diminue la solde des troupes de 5%%. (Competence de commandant)
+skl_prisoner_management|Gestion prisonniers
+skl_prisoner_management_desc|Chaque niveau de cette competence augmente le nombre maximum de prisonniers de %d. (Competence de commandant)
+skl_reserved_1|Competence reservee 1
+skl_reserved_1_desc|Cette competence est reservee.
+skl_reserved_2|Competence reservee 2
+skl_reserved_2_desc|Cette competence est reservee.
+skl_reserved_3|Competence reservee 3
+skl_reserved_3_desc|Cette competence est reservee.
+skl_reserved_4|Competence reservee 1
+skl_reserved_4_desc|Cette competence est reservee.
+skl_persuasion|Persuasion
+skl_persuasion_desc|Cette competence permet d'imposer son point de vue a autrui. Elle permet egalement de diminuer le niveau de relationnel necessaire pour que les PNJ fassent suivant votre volonte. (Competence personnelle)
+skl_engineer|Ingenierie
+skl_engineer_desc|Cette competence vous permet de construire des equipements de siege et d'amenager vos fiefs plus efficacement. (Competence de groupe)
+skl_first_aid|Premiers soins
+skl_first_aid_desc|Les heros recuperent 5%% des points de vie perdus au cours de la bataille par niveau de competence. (Competence de groupe)
+skl_surgery|Chirurgie 
+skl_surgery_desc|Les chances qu'un soldat survive a un coup mortel sont augmentees de 4%% par niveau de competence. (Competence de groupe)
+skl_wound_treatment|Guerison
+skl_wound_treatment_desc|La vitesse de guerison du groupe est augmentee de 20%% par niveau de competence.  Chaque point supplementaire augmente les chances de 5%%, que les blessures graves guerissent plus vite.(Competence de groupe)
+skl_inventory_management|Inventory Management
+skl_inventory_management_desc|Augmente la capacite de l'inventaire de 6 cases par niveau de competence. (Competence de commandant)
+skl_spotting|Reperage
+skl_spotting_desc|La distance de vision du groupe est augmentee de 10%% par niveau de competence. (Competence de groupe)
+skl_pathfinding|Marche forcee
+skl_pathfinding_desc|La vitesse de voyage sur la carte est augmentee de 3%% par niveau de competence. (Competence de groupe)
+skl_tactics|Tactique
+skl_tactics_desc|Tous les deux niveaux de competence, l'avantage tactique du groupe augmente d'un point. (Competence de groupe)
+skl_tracking|Pistage
+skl_tracking_desc|Les empreintes revelent plus d'informations. (Competence de groupe)
+skl_trainer|Mentor
+skl_trainer_descChaque jour, chaque heros avec cette competence ajoute de l'experience a tous les autres membres du groupe dont le niveau est inferieur au leur. L'experience gagnee augmente ainsi : 0, 4, 10, 16, 23, 30, 38, 46, 55, 65, 80. (Competence personnelle et de groupe)
+skl_reserved_5|Competence reservee 5
+skl_reserved_5_desc|Cette competence est reservee.
+skl_reserved_6|Competence reservee 6
+skl_reserved_6_desc|Cette competence est reservee.
+skl_reserved_7|Competence reservee 7
+skl_reserved_7_desc|Cette competence est reservee.
+skl_reserved_8|Competence reservee 8
+skl_reserved_8_desc|Cette competence est reservee.
+skl_looting|Pillage
+skl_looting_desc|Cette competence augmente le butin obtenu de 10%% par niveau de competence. (Competence de groupe)
+skl_horse_archery|Archerie montee
+skl_horse_archery_desc|Reduit les penalites de degâts et de precision lors de l'utilisation en selle d'une arme a distance. (Competence personnelle)
+skl_riding|equitation
+skl_riding_desc|Permet de monter des chevaux plus fougueux et augmente la vitesse et la manoeuvrabilite de la monture. (Competence personnelle)
+skl_athletics|Athletisme
+skl_athletics_desc|Augmente la vitesse de course. (Competence personnelle)
+skl_shield|Bouclier
+skl_shield_desc|Reduit les degâts infliges aux boucliers de 8%% par niveau de competence et ameliore la surface couverte par le bouclier ainsi que sa vitesse. (Competence personnelle)
+skl_weapon_master|Maitre d'armes
+skl_weapon_master_desc|Rend l'apprentissage des maitrises d'armes plus facile et en augmente les limites de maitrise et l'efficacite des boucliers.Les limites augmentent ainsi : 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Competence personnelle)
+skl_maintenance|Entretien d'armes
+skl_maintenance_desc|Chaque point de competence diminue de 7%% la probabilite que l'equipement se brise au combat.
+skl_reserved_10|Competence reservee 10
+skl_reserved_10_desc|Cette competence est reservee.
+skl_reserved_11|Competence reservee 11
+skl_reserved_11_desc|Cette competence est reservee.
+skl_reserved_12|Competence reservee 12
+skl_reserved_12_desc|Cette competence est reservee.
+skl_reserved_13|Competence reservee 13
+skl_reserved_13_desc|Cette competence est reservee.
+skl_power_draw|Puissance de tension
+skl_power_draw_desc|Permet au personnage d'utiliser des arcs plus puissants. Chaque point investi dans cette competence (jusqu'a 4 en plus du prerequis en puissance de tension de l'arc) augmente les degâts infliges par l'arc de 14%%. (Competence personnelle)
+skl_power_throw|Puissance de jet
+skl_power_throw_desc|Chaque point investi dans cette competence augmente les degâts des armes de jet de 10%%. (Competence personnelle)
+skl_power_strike|Puissance de frappe
+skl_power_strike_desc|Chaque point investi dans cette competence augmente les degâts au corps-a-corps de 8%%. (Competence personnelle)
+skl_ironflesh|Vigueur
+skl_ironflesh_desc|Chaque point investi dans cette competence augmente les points de degâts de 2. (Competence personnelle)
+skl_navigation|Navigation
+skl_navigation_desc|La vitesse de voyage sur la mer est augmentee de 3%% par niveau de competence. (Competence de groupe)
+skl_sea_king|Roi des mers
+skl_sea_king_desc|Chaque point augmente le maximum de navires que vous pouvez commander. (Competence de commandant)
+skl_reserved_16|Competence reservee 16
+skl_reserved_16_desc|Cette competence est reservee.
+skl_reserved_17|Competence reservee 17
+skl_reserved_17_desc|Cette competence est reservee.
+skl_reserved_18|Competence reservee 18
+skl_reserved_18_desc|Cette competence est reservee.
