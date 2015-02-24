@@ -243,11 +243,11 @@ str_war_report_minus_1|nous pouvons encore gagner la guerre si nous nous rallion
 str_war_report_0|nous sommes de force egale avec l'ennemi 
 str_war_report_plus_1|nous avons une bonne chance de gagner la guerre 
 str_war_report_plus_2|les choses vont plutot bien 
-str_war_report_plus_3|nous devrions avoir aucune difficulte a les vaincre 
+str_war_report_plus_3|nous ne devrions avoir aucune difficulte a les vaincre 
 str_war_report_plus_4|nous sommes sur le point de gagner la guerre 
-str_persuasion_summary_very_bad|Vous faites de votre mieux pour persuader {s50}, mais aucun de vos arguments semble etre bon. A chaque fois que vous essayez de vous expliquer vous avez l'impression de dire quelquechose de totalement stupide. Au moment ou vous avez fini de parler et que vous n'avez pas reussi a exposer un seul arguement en votre faveur, vous vous rendez compte que vous vous etes simplement enlise plus profond. Sans surprise, {s50} n'a pas l'air impressionne dutout. 
+str_persuasion_summary_very_bad|Vous faites de votre mieux pour persuader {s50}, mais aucun de vos arguments ne semble etre bon. A chaque fois que vous essayez de vous expliquer vous avez l'impression de dire quelquechose de totalement stupide. Au moment ou vous avez fini de parler et que vous n'avez pas reussi a exposer un seul arguement en votre faveur, vous vous rendez compte que vous vous etes simplement enlise plus profondement. Sans surprise, {s50} n'a pas l'air impressionne dutout. 
 str_persuasion_summary_bad|Vous essayez de persuader {s50} mais {reg51?she:he} vous a cerne depuis le debut. Meme vos propres arguments sonnent creux a vos oreilles. {s50} n'a aussi pas eu l'air de s'interesser beaucoup a ce que vous aviez a dire. 
-str_persuasion_summary_average|{s50} s'avere etre un orateur habile avec un esprit vif, et vous n'arrivez pas a produire quelque chose de concret que {reg51 elle: il ne peut pas} ne peut contrer avec un argument rationnel. En fin de compte, aucun de vous ne parvient a gagner de terrain dans cette discussion. 
+str_persuasion_summary_average|{s50} s'avere etre un orateur habile avec un esprit vif, et vous n'arrivez pas a produire quelque chose de concret que {reg51 elle: il ne peut pas} ne puisse refuter avec un argument rationnel. En fin de compte, aucun de vous ne parvient a gagner de terrain dans cette discussion. 
 str_persuasion_summary_good|Through quick thinking and smooth argumentation, you manage to state your case well, forcing {s50} to concede on several points. However, {reg51?she:he} still expresses doubts about your request. 
 str_persuasion_summary_very_good|You deliver an impassioned speech that echoes through all listening ears like poetry. The world itself seems to quiet down in order to hear you better . The inspiring words have moved {s50} deeply, and {reg51?she:he} looks much more well-disposed towards helping you. 
 str_secret_sign_1|The armoire dances at midnight... 
